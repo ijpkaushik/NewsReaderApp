@@ -4,7 +4,7 @@ A fully voice navigated website which provides and read out latest news articles
 ## ScreenShots
 
 ## Live Site
-ijpkaushik-news-reader-app.netlify.app/
+https://ijpkaushik-news-reader-app.netlify.app/
 
 ### Home Page
 <img src ="https://github.com/ijpkaushik/NewsReaderApp/blob/master/Screenshots/HomePage.png" height=auto width=800 />
